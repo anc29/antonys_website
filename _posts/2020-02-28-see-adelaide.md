@@ -1,12 +1,13 @@
 ---
 layout: post
-title: See Adelaide: Origins of the Adelaide Tourism App
-subtitle: Antony Cameron
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [app,tourism]
-comments: true
+title: See Adelaide App: Origins
+subtitle: The Origin Story of the See Adelaide App, a tourism app for Adelaide international students
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [app, tourism]
 ---
+
 
 title: See Adleiade
 
