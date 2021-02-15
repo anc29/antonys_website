@@ -3,7 +3,7 @@ layout: post
 title: Learning to Code
 subtitle: My experiences as a CS student with no programming background
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/ai.png
 share-img: /assets/img/path.jpg
 tags: [CS, coding]
 ---
