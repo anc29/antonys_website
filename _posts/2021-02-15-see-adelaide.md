@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: See Adelaide App: Origins
