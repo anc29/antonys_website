@@ -16,7 +16,7 @@ My name is Antony Cameron. I have listed below my experience and other achieveme
 
 - ATAR of 97.55 with a Merit in Research Project
 - Nominated by my peers and staff as a Senior Leader in 2019, where I was involved in planning and executing many student wellbeing initiatives including Blue Week, Day of Action against Bullying and Violence as well as Chapel services
-- Presented at a staff conference to 
+- Presented at a national staff conference for Jesuit schools across Australia held in Adelaide in June 2019, outlining the work of the Student Wellbeing & Community Portfolio, where I was heavily involved throughout the year
 - Received certificates of Merit for Excellence in Application for both semesters in 2019
 - Received Brother Paul Callil Memorial Prize for Significant Service and Commitment to the College Community at annual College Speech Day in 2019
 
