@@ -1,7 +1,7 @@
 ---
 layout: post
 title: See Adelaide App: Origins
-subtitle: THe Origin Story of the See Adelaide App, a tourism app for Adelaide international students
+subtitle: The Origin Story of the See Adelaide App, a tourism app for Adelaide international students
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
